@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212223100012
+# Name: K.HEMANATH 
+# Date: 
 
 
 # AIM:
@@ -30,6 +30,7 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+<img width="1123" height="884" alt="image" src="https://github.com/user-attachments/assets/b5778beb-c1cc-42cd-baa1-6bc0739caa49" />
 
 # USE CASE DIAGRAM
 
